@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\praktikum2-dekstop-xii-0096854597-muhamad ilham aziz maulana\\PRAKTIKUM2-DEKSTOP-XII-0096854597-MUHAMAD ILHAM AZIZ MAULANA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53E5FE5E-6556-47A4-9B9D-5ADA8387CDEB}|PRAKTIKUM2-DEKSTOP-XII-0096854597-MUHAMAD ILHAM AZIZ MAULANA.csproj|d:\\praktikum2-dekstop-xii-0096854597-muhamad ilham aziz maulana\\praktikum2-dekstop-xii-0096854597-muhamad ilham aziz maulana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53E5FE5E-6556-47A4-9B9D-5ADA8387CDEB}|PRAKTIKUM2-DEKSTOP-XII-0096854597-MUHAMAD ILHAM AZIZ MAULANA.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\praktikum2-dekstop-xii-0096854597-muhamad ilham aziz maulana\\PRAKTIKUM2-DEKSTOP-XII-0096854597-MUHAMAD ILHAM AZIZ MAULANA\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\praktikum2-dekstop-xii-0096854597-muhamad ilham aziz maulana\\PRAKTIKUM2-DEKSTOP-XII-0096854597-MUHAMAD ILHAM AZIZ MAULANA\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T00:16:44.682Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
